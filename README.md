@@ -1,1 +1,1 @@
-# dark-and-lioght-mood
+# dark-and-light-mood
